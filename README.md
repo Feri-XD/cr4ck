@@ -14,7 +14,7 @@ $ pkg install git
 
 $ rm -rf cr4ck
 
-$ git clone https://github.com/dekura-x/cr4ck
+$ git clone https://github.com/Feri-XD/cr4ck
 
 $ cd cr4ck
 
